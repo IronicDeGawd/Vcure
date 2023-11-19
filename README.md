@@ -13,3 +13,9 @@ Design a secure and transparent blockchain-based voting system for elections or 
   This hash generated for citizen would be mapped to true. First 10 characters are voter id no, next 42 characters are public address and last 10 characters are phone number.
   
 * E-KYC would be performed using registered phone number for extra security
+
+### UI of App
+
+<img src="https://github.com/IronicDeGawd/Vcure/assets/91710612/6f8ceb3f-4138-46e3-8b9c-48a5d788086f" height="524">
+<img src="https://github.com/IronicDeGawd/Vcure/assets/91710612/f5bf5c4d-f8d3-421f-90e3-c3f205efb114" height="524">
+
